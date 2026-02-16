@@ -1,20 +1,26 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Hello, I'm Sergio Garcia Reyes!
 
-# Run and deploy your AI Studio app
+I'm a passionate developer with a love for coding and a drive to learn new technologies. Welcome to my GitHub profile!
 
-This contains everything you need to run your app locally.
+## 🚀 About Me
+- 🔭 I’m currently working on various exciting projects.
+- 🌱 I’m currently learning more about full-stack development.
+- 👯 I’m looking to collaborate on innovative projects.
+- 🤔 I’m looking for help with open-source initiatives.
+- 💬 Ask me about my projects or anything related to software development.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1blolunwblAqrsS7HrqnxHqnH2iirFXWZ
+## 🌍 Connect with Me
+- [LinkedIn](https://linkedin.com/in/1garciareyessergio2-star)
+- [Twitter](https://twitter.com/1garciareyessergio2-star)
 
-## Run Locally
+## 🔧 Technologies & Tools
+- Languages: JavaScript, Python, Java
+- Frameworks: React, Node.js, Django
+- Tools: Git, Docker, Jenkins
 
-**Prerequisites:**  Node.js
+## 📂 My Projects
+- [Project 1](https://github.com/1garciareyessergio2-star/project1)
+- [Project 2](https://github.com/1garciareyessergio2-star/project2)
+- [Project 3](https://github.com/1garciareyessergio2-star/project3)
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Thank you for visiting my profile! Feel free to check out my projects and contribute to them!
